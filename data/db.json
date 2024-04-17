@@ -1,0 +1,913 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "title": "Bánh Kem Dreamy Lady",
+      "des": "Bánh Kem Dreamy Lady",
+      "images": "https://bizweb.dktcdn.net/thumb/large/100/492/035/products/banh-kem-dreamy-lady-7754385160e.jpg?v=1692092024453",
+      "price": 380,
+      "discount": "12",
+      "product_new": false,
+      "product_like": false,
+      "best_seller": true,
+      "product_quantity": 1,
+      "id_category": 1
+    },
+    {
+      "id": 3,
+      "title": "Bánh Hoàng Kim",
+      "des": "Bánh Hoàng Kim",
+      "images": "https://bizweb.dktcdn.net/thumb/large/100/492/035/products/hoang-kim-e25fdadbebec4330a975e6-min.png?v=1692091986087",
+      "price": 400,
+      "discount": 20,
+      "product_new": false,
+      "product_like": false,
+      "best_seller": false,
+      "product_quantity": 1,
+      "id_category": 1
+    },
+    {
+      "id": 4,
+      "title": "Bánh Mousse Chocolate",
+      "des": "",
+      "images": "https://bizweb.dktcdn.net/thumb/large/100/492/035/products/thiet-ke-chua-co-ten-a480f34a8c8.jpg?v=1692091849157",
+      "price": 390,
+      "discount": 30,
+      "product_new": false,
+      "product_like": false,
+      "best_seller": false,
+      "product_quantity": 1,
+      "id_category": 1
+    },
+    {
+      "id": 5,
+      "title": "Bánh Kem Sweet Heart 4",
+      "des": "",
+      "images": "https://bizweb.dktcdn.net/thumb/large/100/492/035/products/2-removebg-preview-1-ba51f7d4e.png?v=1692091666957",
+      "price": 170,
+      "discount": 12,
+      "product_new": false,
+      "product_like": false,
+      "best_seller": false,
+      "product_quantity": 1,
+      "id_category": 1
+    },
+    {
+      "id": 6,
+      "title": "Bánh Kem Amazing Chocolate",
+      "des": "Bánh Kem Amazing Chocolate",
+      "images": "https://bizweb.dktcdn.net/thumb/large/100/492/035/products/banh-kem-amazing-chocolate-1-c.png?v=1692091472963",
+      "price": 380,
+      "discount": 0,
+      "product_new": false,
+      "product_like": false,
+      "best_seller": false,
+      "product_quantity": 1,
+      "id_category": 1
+    },
+    {
+      "id": 7,
+      "title": "Bánh Kem Endless Love",
+      "des": "Thành phần: Bánh kem tươi cốt bánh 3 lớp chiffon sô cô la chip, kem nhân phô mai, phủ ganat đen và trang trí sô cô la màu.",
+      "images": "https://bizweb.dktcdn.net/100/492/035/products/endless-love-c7027cf9711b4fde9b6.png?v=1692091413697",
+      "price": 380,
+      "discount": 0,
+      "product_new": false,
+      "product_like": false,
+      "best_seller": false,
+      "product_quantity": 1,
+      "id_category": 1
+    },
+    {
+      "id": 8,
+      "title": "Bánh Kem Princess",
+      "des": "",
+      "images": "https://bizweb.dktcdn.net/thumb/large/100/492/035/products/princess-8-58d2fc00a1d24627a63e3.png?v=1692091370170",
+      "price": 420,
+      "discount": 10,
+      "product_new": false,
+      "product_like": false,
+      "best_seller": false,
+      "product_quantity": 1,
+      "id_category": 1
+    },
+    {
+      "id": 9,
+      "title": "Bánh Mì Nhân Sen Sữa Dừa",
+      "des": "",
+      "images": "https://bizweb.dktcdn.net/thumb/large/100/492/035/products/sen-sua-dua-ac9cc58a8ba545aaa03c.jpg?v=1692092922617",
+      "price": 10,
+      "discount": 0,
+      "product_new": false,
+      "product_like": false,
+      "best_seller": false,
+      "product_quantity": 1,
+      "id_category": 2
+    },
+    {
+      "id": 10,
+      "title": "Bánh Mì Hạt Óc Chó Sốt Kem",
+      "des": "",
+      "images": "https://bizweb.dktcdn.net/thumb/large/100/492/035/products/thiet-ke-khong-ten-22-a231cf82.jpg?v=1692092861340",
+      "price": 30,
+      "discount": 0,
+      "product_new": false,
+      "product_like": false,
+      "best_seller": false,
+      "product_quantity": 1,
+      "id_category": 2
+    },
+    {
+      "id": 11,
+      "title": "Bánh Donut Socola Dâu 45G",
+      "des": "",
+      "images": "https://bizweb.dktcdn.net/thumb/large/100/492/035/products/20-f815cca7a6314f428132e9c6b0472.jpg?v=1692092825777",
+      "price": 20,
+      "discount": "0",
+      "product_new": false,
+      "product_like": false,
+      "best_seller": false,
+      "product_quantity": 1,
+      "id_category": 2
+    },
+    {
+      "id": 12,
+      "title": "Bánh Donut Socola Trắng Hạnh Nhân 45G",
+      "des": "Bột mỳ, sô cô la trắng (24%), nước, hạnh nhân cắt lát (11,3%), đường, cốm màu, trứng gà, bơ, sữa bột, muối tinh, men, chất nhũ hóa (471), chất chống oxi hóa (300), enzym: amylaza (1100i)",
+      "images": "https://bizweb.dktcdn.net/thumb/large/100/492/035/products/khong-co-tieu-de-728-90-px-1.jpg?v=1692092788207",
+      "price": 24,
+      "discount": 17,
+      "product_new": false,
+      "product_like": false,
+      "best_seller": false,
+      "product_quantity": 1,
+      "id_category": 2
+    },
+    {
+      "id": 13,
+      "title": "Bánh Donut Socola Trà Xanh 45G",
+      "des": "",
+      "images": "https://bizweb.dktcdn.net/thumb/large/100/492/035/products/khong-co-tieu-de-728-90-px.jpg?v=1692092754963",
+      "price": 15,
+      "discount": 0,
+      "product_new": true,
+      "product_like": false,
+      "best_seller": false,
+      "product_quantity": 1,
+      "id_category": 2
+    },
+    {
+      "id": 14,
+      "title": "Bánh Mì Xúc Xích Ruốc",
+      "des": "",
+      "images": "https://bizweb.dktcdn.net/thumb/large/100/492/035/products/thiet-ke-khong-ten-18-5dc8fb8e.jpg?v=1692092726203",
+      "price": 19,
+      "discount": 0,
+      "product_new": false,
+      "product_like": false,
+      "best_seller": false,
+      "product_quantity": 1,
+      "id_category": 2
+    },
+    {
+      "id": 15,
+      "title": "Bánh Mì Nhân Sợi Gà Sốt Teriyaki",
+      "des": "",
+      "images": "https://bizweb.dktcdn.net/thumb/large/100/492/035/products/banh-tuoi-soi-ga-sot-teriyaki-1.jpg?v=1692092695367",
+      "price": 22,
+      "discount": 0,
+      "product_new": false,
+      "product_like": false,
+      "best_seller": false,
+      "product_quantity": 1,
+      "id_category": 2
+    },
+    {
+      "id": 16,
+      "title": "Bánh Danish Nho",
+      "des": "",
+      "images": "https://bizweb.dktcdn.net/thumb/large/100/492/035/products/3-6b69cb608b84410b9ab355bc0267c2.jpg?v=1692092640000",
+      "price": 20,
+      "discount": 0,
+      "product_new": false,
+      "product_like": false,
+      "best_seller": false,
+      "product_quantity": 1,
+      "id_category": 2
+    },
+    {
+      "id": 17,
+      "title": "Bánh Su Kem Nhân Vani",
+      "des": "Thành phần: Trứng gà, bột mỳ, bơ, nước, đường, tinh bột biến tính (E1414), béo thực vật, bột sữa gầy, chất làm dày (E401), hương vani tổng hợp, màu thực phẩm (E160aii)), muối.",
+      "images": "https://bizweb.dktcdn.net/thumb/large/100/492/035/products/49-2f4173248ab5495babe1c9ddc804c.jpg?v=1692093856747",
+      "price": 29,
+      "discount": 0,
+      "product_new": true,
+      "product_like": false,
+      "best_seller": false,
+      "product_quantity": 1,
+      "id_category": 3
+    },
+    {
+      "id": 18,
+      "title": "Bánh Su Kem Nhân Socola",
+      "des": "",
+      "images": "https://bizweb.dktcdn.net/thumb/large/100/492/035/products/48-ba0acd283d9944f5bfa21d4026b29.jpg?v=1692093815550",
+      "price": 30,
+      "discount": 0,
+      "product_new": false,
+      "product_like": false,
+      "best_seller": false,
+      "product_quantity": 1,
+      "id_category": 3
+    },
+    {
+      "id": 19,
+      "title": "Bánh Muffin Socola Chip",
+      "des": "",
+      "images": "https://bizweb.dktcdn.net/thumb/large/100/492/035/products/17-0bab5559a3714b46b407517296419.jpg?v=1692093767223",
+      "price": 19,
+      "discount": 0,
+      "product_new": false,
+      "product_like": false,
+      "best_seller": false,
+      "product_quantity": 1,
+      "id_category": 3
+    },
+    {
+      "id": 20,
+      "title": "Bánh Gato Socola Sữa",
+      "des": "",
+      "images": "https://bizweb.dktcdn.net/thumb/large/100/492/035/products/thiet-ke-khong-ten-2-8c5a3322f.jpg?v=1692093730967",
+      "price": 50,
+      "discount": 20,
+      "product_new": true,
+      "product_like": false,
+      "best_seller": false,
+      "product_quantity": 1,
+      "id_category": 3
+    },
+    {
+      "id": 21,
+      "title": "Bánh Cuộn Socola Miếng",
+      "des": "",
+      "images": "https://bizweb.dktcdn.net/thumb/large/100/492/035/products/83-5760a68327794f8c9675f73336293-min-1.jpg?v=1692093694480",
+      "price": 23,
+      "discount": 0,
+      "product_new": false,
+      "product_like": true,
+      "best_seller": false,
+      "product_quantity": 1,
+      "id_category": 3
+    },
+    {
+      "id": 22,
+      "title": "Bánh Cuộn Vani 110G",
+      "des": "",
+      "images": "https://bizweb.dktcdn.net/thumb/large/100/492/035/products/42-f9db27ab52dc45ddb159636c43e27.jpg?v=1692093486117",
+      "price": 35,
+      "discount": 0,
+      "product_new": true,
+      "product_like": false,
+      "best_seller": false,
+      "product_quantity": 1,
+      "id_category": 3
+    },
+    {
+      "id": 23,
+      "title": "Bánh Cuộn Trà Xanh 110G",
+      "des": "",
+      "images": "https://bizweb.dktcdn.net/100/492/035/products/43-1Furfhe8BFbkEhXn1xcYPr8jYAACNpfV7p.jpg?v=1692093451703",
+      "price": 35,
+      "discount": 0,
+      "product_new": false,
+      "product_like": true,
+      "best_seller": false,
+      "product_quantity": 1,
+      "id_category": 3
+    },
+    {
+      "id": 24,
+      "title": "Bánh Chiffon Trà Xanh",
+      "des": "",
+      "images": "https://bizweb.dktcdn.net/thumb/large/100/492/035/products/thiet-ke-khong-ten-26-bb4406d9.jpg?v=1692093366447",
+      "price": 36,
+      "discount": 0,
+      "product_new": true,
+      "product_like": false,
+      "best_seller": false,
+      "product_quantity": 1,
+      "id_category": 3
+    },
+    {
+      "id": 25,
+      "title": "Bánh Pana Cotta",
+      "des": "",
+      "images": "https://bizweb.dktcdn.net/thumb/large/100/492/035/products/panna-cotta-3459143e9ffa4e01bcfe.jpg?v=1692094440360",
+      "price": 22,
+      "discount": 0,
+      "product_new": true,
+      "product_like": false,
+      "best_seller": true,
+      "product_quantity": 1,
+      "id_category": 4
+    },
+    {
+      "id": 26,
+      "title": "Sữa Chua",
+      "des": "",
+      "images": "https://bizweb.dktcdn.net/thumb/large/100/492/035/products/sua-chua-59d14133b74f49979da0edf.jpg?v=1692094394980",
+      "price": 13,
+      "discount": 0,
+      "product_new": false,
+      "product_like": false,
+      "best_seller": false,
+      "product_quantity": 1,
+      "id_category": 4
+    },
+    {
+      "id": 27,
+      "title": "Caramen",
+      "des": "",
+      "images": "https://bizweb.dktcdn.net/thumb/large/100/492/035/products/caramel-d7c7ad0a5a654cac8f76208d.jpg?v=1692094359980",
+      "price": 18,
+      "discount": 28,
+      "product_new": false,
+      "product_like": true,
+      "best_seller": true,
+      "product_quantity": 1,
+      "id_category": 4
+    },
+    {
+      "id": 28,
+      "title": "Bánh Quy Dừa",
+      "des": "",
+      "images": "https://bizweb.dktcdn.net/thumb/large/100/492/035/products/quy-dua-to-nho-9719c816ba7247699.jpg?v=1692094860540",
+      "price": 42,
+      "discount": 0,
+      "product_new": true,
+      "product_like": false,
+      "best_seller": false,
+      "product_quantity": 1,
+      "id_category": 5
+    },
+    {
+      "id": 29,
+      "title": "Bánh Quy Hạnh Nhân",
+      "des": "",
+      "images": "https://bizweb.dktcdn.net/thumb/large/100/492/035/products/quy-hanh-nhan-d1ba3f7c70fb43d0b1.jpg?v=1692094804490",
+      "price": 32,
+      "discount": 0,
+      "product_new": false,
+      "product_like": true,
+      "best_seller": true,
+      "product_quantity": 1,
+      "id_category": 5
+    },
+    {
+      "id": 30,
+      "title": "Bánh Quy Bơ Mứt Dâu",
+      "des": "",
+      "images": "https://bizweb.dktcdn.net/thumb/large/100/492/035/products/quy-mut-dau-to-a0e6bb6421aa47bda.jpg?v=1692094744600",
+      "price": 50,
+      "discount": 16,
+      "product_new": true,
+      "product_like": false,
+      "best_seller": true,
+      "product_quantity": 1,
+      "id_category": 5
+    },
+    {
+      "id": 31,
+      "title": "Bánh Red Velvet 90G",
+      "des": "",
+      "images": "https://bizweb.dktcdn.net/thumb/large/100/492/035/products/quy-mut-dau-to-a0e6bb6421aa47bda.jpg?v=1692094744600",
+      "price": 58,
+      "discount": 16,
+      "product_new": true,
+      "product_like": true,
+      "best_seller": true,
+      "product_quantity": 1,
+      "id_category": 6
+    },
+    {
+      "title": "Bánh Croissant",
+      "des": "Thành phần: Bột mỳ, men, muối, đường, trứng, sữa bột, bơ, nước\nHạn sử dụng: 2 ngày kể từ ngày sản xuất",
+      "images": "https://bizweb.dktcdn.net/thumb/large/100/492/035/products/thiet-ke-khong-ten-13-ecd4e91f.jpg?v=1692092584140",
+      "price": "15",
+      "discount": "0",
+      "product_new": false,
+      "product_like": false,
+      "best_seller": false,
+      "product_quantity": 1,
+      "id_category": "2",
+      "id": 32
+    },
+    {
+      "title": "Bánh Mì Hạt Óc Chó Sốt Kem",
+      "des": "Bột mỳ, đường, bơ, nước, trứng gà, hạt óc chó (5,3%), muối, men, chất ổn định (E516), chất nhũ hóa (E322i), chất xử lý bột (E300, E1100i).",
+      "images": "https://bizweb.dktcdn.net/thumb/large/100/492/035/products/thiet-ke-khong-ten-22-a231cf82.jpg?v=1692092861340",
+      "price": "30",
+      "discount": "12",
+      "product_new": true,
+      "product_like": false,
+      "best_seller": false,
+      "product_quantity": 1,
+      "id_category": "2",
+      "id": 33
+    },
+    {
+      "title": "Bánh Mì Nướng Phô Mai Que",
+      "des": "Thành phần: Bột mì, nước, phô mai bột (4%), dầu, thực vật, men, bánh, muối, chất ổn định (E516), chất nhũ hóa (E322i), chất xử lý bột (E300, E1100i)\n\nTúi 52g \n\nNăng lượng: 405 Kcal\n\nBảo quản sản phẩm: Nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp.\n\nLưu ý: Tiếp xúc với không khí sẽ ảnh hưởng tới độ giòn của sản phẩm, vui lòng đóng kín miệng bao bì sau khi mở.",
+      "images": "https://bizweb.dktcdn.net/thumb/large/100/492/035/products/3-fdd1265100174cc3a112fde516b520.jpg?v=1692095046793",
+      "price": "15",
+      "discount": "2",
+      "product_new": true,
+      "product_like": false,
+      "best_seller": true,
+      "product_quantity": 1,
+      "id_category": "3",
+      "id": 34
+    },
+    {
+      "title": "Bánh Lady Finger",
+      "des": "Thành phần: Trứng, bột mì, đường, muối, hương vinilla",
+      "images": "https://bizweb.dktcdn.net/100/492/035/products/lady-finger-6bd9609cce084948a182.jpg?v=1692094694990",
+      "price": "42",
+      "discount": "0",
+      "product_new": true,
+      "product_like": true,
+      "best_seller": false,
+      "product_quantity": 1,
+      "id_category": "5",
+      "id": 35
+    },
+    {
+      "title": "Bánh Kem Endless Love",
+      "des": "",
+      "images": "https://bizweb.dktcdn.net/thumb/large/100/492/035/products/endless-love-c7027cf9711b4fde9b6.png?v=1692091413697",
+      "price": "380",
+      "discount": "0",
+      "product_new": true,
+      "product_like": true,
+      "best_seller": true,
+      "product_quantity": "1",
+      "id_category": "1",
+      "id": 36
+    },
+    {
+      "title": "Bánh Kem Princess",
+      "des": "",
+      "images": "https://bizweb.dktcdn.net/thumb/large/100/492/035/products/princess-8-58d2fc00a1d24627a63e3.png?v=1692091370170",
+      "price": "420",
+      "discount": "10",
+      "product_new": true,
+      "product_like": true,
+      "best_seller": false,
+      "product_quantity": "1",
+      "id_category": "2",
+      "id": 37
+    },
+    {
+      "title": "Bánh Chiffon Vani",
+      "des": "Thành phần: Trứng gà, đường, bột mỳ, bơ, bột làm bánh Tartar, siro đường, hương vani tổng hợp, rượu rum.",
+      "images": "https://bizweb.dktcdn.net/100/492/035/products/41-c43fc976b5554ed9a89c65d6f22db.jpg?v=1692093413140",
+      "price": "32",
+      "discount": "0",
+      "product_new": true,
+      "product_like": false,
+      "best_seller": false,
+      "product_quantity": "1",
+      "id_category": "5",
+      "id": 38
+    },
+    {
+      "title": "Bánh Mì Hạt Óc Chó Sốt Kem",
+      "des": "Bột mỳ, đường, bơ, nước, trứng gà, hạt óc chó (5,3%), muối, men, chất ổn định (E516), chất nhũ hóa (E322i), chất xử lý bột (E300, E1100i).",
+      "images": "https://bizweb.dktcdn.net/100/492/035/products/thiet-ke-khong-ten-22-a231cf82.jpg?v=1692092861340",
+      "price": "122",
+      "discount": "7",
+      "product_new": true,
+      "product_like": true,
+      "best_seller": true,
+      "product_quantity": "1",
+      "id_category": "6",
+      "id": 39
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "name_category": "Bánh kem"
+    },
+    {
+      "id": 2,
+      "name_category": "Bánh mì"
+    },
+    {
+      "id": 3,
+      "name_category": "Bánh ngọt"
+    },
+    {
+      "id": 4,
+      "name_category": "Bánh tráng miệng"
+    },
+    {
+      "id": 5,
+      "name_category": "Bánh khô"
+    },
+    {
+      "id": 6,
+      "name_category": "Bánh đông lạnh"
+    },
+    {
+      "id": 7,
+      "name_category": "Bánh theo mùa"
+    },
+    {
+      "id": 8,
+      "name_category": "Đồ uống"
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "firts": "Nguyễn Trung",
+      "last_name": "Thông",
+      "email": "ntthong.it@gmail.com",
+      "phone": "0981372744",
+      "password": "0981372744",
+      "adress": "Ngõ 5, Nguyễn Thị Định, Bảo Ninh, Tp.Đồng Hới, Quảng Bình, Việt Nam",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "firts": "Ngô Thị",
+      "last_name": "Lợi",
+      "email": "loi@gmail.com",
+      "phone": "123456789",
+      "password": "0981372744",
+      "adress": "Ngõ 5, Nguyễn Thị Định, Bảo Ninh, Tp.Đồng Hới, Quảng Bình, Việt Nam",
+      "role": "sales"
+    },
+    {
+      "id": 3,
+      "firts": "Nguyễn Văn",
+      "last_name": "Khoa",
+      "email": "Khoa@gmail.com",
+      "phone": "012345444",
+      "password": "12345678",
+      "adress": "Ngõ 5, Nguyễn Thị Định, Bảo Ninh, Tp.Đồng Hới, Quảng Bình, Việt Nam",
+      "role": ""
+    },
+    {
+      "id": 4,
+      "firts": "Phạm Thị Ngọc",
+      "last_name": "Diệu",
+      "email": "Diệu@gmail.com",
+      "phone": "0123454445",
+      "password": "12345678",
+      "adress": "123 Võ Nguyên Giáp, Tp. Hồ Chí Minh",
+      "role": ""
+    },
+    {
+      "id": 5,
+      "firts": "Nguyễn Hữu Anh",
+      "last_name": "Khoa",
+      "email": "Khoa@gmail.com",
+      "phone": "01234333445",
+      "password": "12345678",
+      "adress": "123 Võ Nguyên Giáp, Tp. Cần Thơ",
+      "role": ""
+    },
+    {
+      "id": 6,
+      "firts": "Nguyễn Thị Phương",
+      "last_name": "Thảo",
+      "email": "Thảo@gmail.com",
+      "phone": "01234333445",
+      "password": "12345678",
+      "adress": "123 Võ Nguyên Giáp, Hà Nội",
+      "role": ""
+    },
+    {
+      "firts": "Ngô Phi",
+      "last_name": "Thắng",
+      "email": "ngophithang@gmail.com",
+      "phone": "0981111123",
+      "password": "123456",
+      "adress": "5A Nguyễn Thị Định, Thị Trấn Kiến Giang, Lệ Thủy, Quảng Bình",
+      "role": "Khách hàng",
+      "id": 7
+    },
+    {
+      "firts": "Ngô Thị",
+      "last_name": "Lợi",
+      "email": "ngoloi7630@gmail.com",
+      "phone": "0963615035",
+      "password": "123456",
+      "adress": "Ngõ 5A , Nguyễn Thị Định, Đồng Hới, Quảng Bình ",
+      "role": "Khách hàng",
+      "id": 8
+    }
+  ],
+  "news": [
+    {
+      "id": 1,
+      "title": "Donut chỉ từ 8k tại Dola",
+      "describe": "Nhắc đến bánh Donut, dân sành thưởng thức hẳn không còn xa lạ gì với món ăn vặt rất phổ biến ở các nước phương Tây này. Dù có nguồn gốc từ nước Mỹ xa xôi song hiện tại, Donut đã và đang trở thành những món bánh ngọt được yêu thích tại Việt Nam.Với hương vị thơm ngon đặc trưng, xốp mềm hấp dẫn, Donut chiếm được cảm tình của không ít những tín đồ hảo ngọt. Muốn thưởng thức ngay một chiếc Donut thơm ngon thì bạn có thể ghé bất kỳ một cơ sở Dola bất kỳ để mua về với mức giá từ 8 - 15k mà thôi!...",
+      "images_news": "https://bizweb.dktcdn.net/100/492/035/articles/243062617-6096832187058353-42980.png?v=1692242235353",
+      "id_user": 1,
+      "create_date": "16/10/2023"
+    },
+    {
+      "id": 2,
+      "title": "Croissant ngàn lớp - đa dạng cách thưởng thức",
+      "describe": "👉 Những chiếc bánh sừng bò với hương bơ thơm béo đặc trưng lại còn đưa miệng với độ giòn xốp, dai dai từ 'ngàn' lớp bánh. Nổi bật với hình dạng giống chiếc sừng ngộ nghĩnh, vàng duộm hấp dẫn, chiếc bánh đạt được độ ngon cả về thị giác lẫn vị giác....",
+      "images_news": "https://bizweb.dktcdn.net/100/492/035/articles/banner-trang-chu-1rs-64a539e43a5.png?v=1692242153870",
+      "id_user": 1,
+      "create_date": "17/10/2023"
+    },
+    {
+      "id": 3,
+      "title": "Bánh Tart thơm ngậy không thể bỏ lỡ",
+      "describe": "🍓 Tart trứng là loại bánh đường phố nổi tiếng ở Hong Kong được rất nhiều người yêu thích. Không những thế, trong bảng xếp hạng 50 loại món ăn ngon nhất thế giới do CNN Go bình chọn, Tart trứng còn chễm chệ đứng ở vị trí thứ 16 nữa cơ đấy! Qua đó có thể thấy được mức độ phổ biến và yêu thích của loại bánh này trên toàn thế giới...",
+      "images_news": "https://bizweb.dktcdn.net/100/492/035/articles/244507007-6116411681767070-43207.png?v=1692242112913",
+      "id_user": 2,
+      "create_date": "17/10/2023"
+    }
+  ],
+  "carts": [
+    {
+      "id": 1,
+      "id_carts": 1,
+      "products": [
+        {
+          "id": 9,
+          "title": "Bánh Mì Nhân Sen Sữa Dừa",
+          "des": "",
+          "images": "https://bizweb.dktcdn.net/thumb/large/100/492/035/products/sen-sua-dua-ac9cc58a8ba545aaa03c.jpg?v=1692092922617",
+          "price": 10,
+          "discount": 0,
+          "product_new": false,
+          "product_like": false,
+          "best_seller": false,
+          "product_quantity": 1,
+          "id_category": 2
+        },
+        {
+          "id": 28,
+          "title": "Bánh Quy Dừa",
+          "des": "",
+          "images": "https://bizweb.dktcdn.net/thumb/large/100/492/035/products/quy-dua-to-nho-9719c816ba7247699.jpg?v=1692094860540",
+          "price": 42,
+          "discount": 0,
+          "product_new": true,
+          "product_like": false,
+          "best_seller": false,
+          "product_quantity": 1,
+          "id_category": 5
+        }
+      ],
+      "id_user": 4,
+      "carts_quantity": 2,
+      "sum_price": 760,
+      "payment_methods": "Thu hộ",
+      "id_voucher": 1
+    },
+    {
+      "id": 2,
+      "id_carts": 2,
+      "products": [
+        {
+          "id": 9,
+          "title": "Bánh Mì Nhân Sen Sữa Dừa",
+          "des": "",
+          "images": "https://bizweb.dktcdn.net/thumb/large/100/492/035/products/sen-sua-dua-ac9cc58a8ba545aaa03c.jpg?v=1692092922617",
+          "price": 10,
+          "discount": 0,
+          "product_new": false,
+          "product_like": false,
+          "best_seller": false,
+          "product_quantity": 1,
+          "id_category": 2
+        },
+        {
+          "id": 28,
+          "title": "Bánh Quy Dừa",
+          "des": "",
+          "images": "https://bizweb.dktcdn.net/thumb/large/100/492/035/products/quy-dua-to-nho-9719c816ba7247699.jpg?v=1692094860540",
+          "price": 42,
+          "discount": 0,
+          "product_new": true,
+          "product_like": false,
+          "best_seller": false,
+          "product_quantity": 1,
+          "id_category": 5
+        }
+      ],
+      "id_user": 3,
+      "carts_quantity": 1,
+      "sum_price": 320,
+      "payment_methods": "Thu hộ",
+      "id_voucher": null
+    },
+    {
+      "id_carts": "",
+      "products": [
+        {
+          "id": 20,
+          "title": "Bánh Gato Socola Sữa",
+          "des": "",
+          "images": "https://bizweb.dktcdn.net/thumb/large/100/492/035/products/thiet-ke-khong-ten-2-8c5a3322f.jpg?v=1692093730967",
+          "price": 50,
+          "discount": 20,
+          "product_new": true,
+          "product_like": false,
+          "best_seller": false,
+          "product_quantity": 1,
+          "id_category": 3
+        },
+        {
+          "id": 4,
+          "title": "Bánh Mousse Chocolate",
+          "des": "",
+          "images": "https://bizweb.dktcdn.net/thumb/large/100/492/035/products/thiet-ke-chua-co-ten-a480f34a8c8.jpg?v=1692091849157",
+          "price": 390,
+          "discount": 30,
+          "product_new": false,
+          "product_like": false,
+          "best_seller": false,
+          "product_quantity": 2,
+          "id_category": 1
+        }
+      ],
+      "id_user": 7,
+      "carts_quantity": 0,
+      "sum_price": "870.000₫",
+      "payment_methods": "Thu hộ",
+      "id_voucher": "1",
+      "id": 7
+    },
+    {
+      "id_carts": "",
+      "products": [
+        {
+          "id": 20,
+          "title": "Bánh Gato Socola Sữa",
+          "des": "",
+          "images": "https://bizweb.dktcdn.net/thumb/large/100/492/035/products/thiet-ke-khong-ten-2-8c5a3322f.jpg?v=1692093730967",
+          "price": 50,
+          "discount": 20,
+          "product_new": true,
+          "product_like": false,
+          "best_seller": false,
+          "product_quantity": 1,
+          "id_category": 3
+        },
+        {
+          "id": 4,
+          "title": "Bánh Mousse Chocolate",
+          "des": "",
+          "images": "https://bizweb.dktcdn.net/thumb/large/100/492/035/products/thiet-ke-chua-co-ten-a480f34a8c8.jpg?v=1692091849157",
+          "price": 390,
+          "discount": 30,
+          "product_new": false,
+          "product_like": false,
+          "best_seller": false,
+          "product_quantity": 2,
+          "id_category": 1
+        },
+        {
+          "id": 27,
+          "title": "Caramen",
+          "des": "",
+          "images": "https://bizweb.dktcdn.net/thumb/large/100/492/035/products/caramel-d7c7ad0a5a654cac8f76208d.jpg?v=1692094359980",
+          "price": 18,
+          "discount": 28,
+          "product_new": false,
+          "product_like": true,
+          "best_seller": true,
+          "product_quantity": 2,
+          "id_category": 4
+        }
+      ],
+      "id_user": 1,
+      "carts_quantity": 0,
+      "sum_price": "906.000₫",
+      "payment_methods": "Thu hộ",
+      "id_voucher": "1",
+      "id": 8
+    },
+    {
+      "id_carts": "",
+      "products": [
+        {
+          "id": 20,
+          "title": "Bánh Gato Socola Sữa",
+          "des": "",
+          "images": "https://bizweb.dktcdn.net/thumb/large/100/492/035/products/thiet-ke-khong-ten-2-8c5a3322f.jpg?v=1692093730967",
+          "price": 50,
+          "discount": 20,
+          "product_new": true,
+          "product_like": false,
+          "best_seller": false,
+          "product_quantity": 1,
+          "id_category": 3
+        },
+        {
+          "id": 4,
+          "title": "Bánh Mousse Chocolate",
+          "des": "",
+          "images": "https://bizweb.dktcdn.net/thumb/large/100/492/035/products/thiet-ke-chua-co-ten-a480f34a8c8.jpg?v=1692091849157",
+          "price": 390,
+          "discount": 30,
+          "product_new": false,
+          "product_like": false,
+          "best_seller": false,
+          "product_quantity": 2,
+          "id_category": 1
+        },
+        {
+          "id": 27,
+          "title": "Caramen",
+          "des": "",
+          "images": "https://bizweb.dktcdn.net/thumb/large/100/492/035/products/caramel-d7c7ad0a5a654cac8f76208d.jpg?v=1692094359980",
+          "price": 18,
+          "discount": 28,
+          "product_new": false,
+          "product_like": true,
+          "best_seller": true,
+          "product_quantity": 2,
+          "id_category": 4
+        }
+      ],
+      "id_user": 1,
+      "carts_quantity": 0,
+      "sum_price": "906.000₫",
+      "payment_methods": "Thu hộ",
+      "id_voucher": "1",
+      "id": 9
+    },
+    {
+      "id_carts": "",
+      "products": [
+        {
+          "id": 3,
+          "title": "Bánh Hoàng Kim",
+          "des": "Bánh Hoàng Kim",
+          "images": "https://bizweb.dktcdn.net/thumb/large/100/492/035/products/hoang-kim-e25fdadbebec4330a975e6-min.png?v=1692091986087",
+          "price": 400,
+          "discount": 20,
+          "product_new": false,
+          "product_like": false,
+          "best_seller": false,
+          "product_quantity": 2,
+          "id_category": 1
+        },
+        {
+          "id": 27,
+          "title": "Caramen",
+          "des": "",
+          "images": "https://bizweb.dktcdn.net/thumb/large/100/492/035/products/caramel-d7c7ad0a5a654cac8f76208d.jpg?v=1692094359980",
+          "price": 18,
+          "discount": 28,
+          "product_new": false,
+          "product_like": true,
+          "best_seller": true,
+          "product_quantity": 2,
+          "id_category": 4
+        }
+      ],
+      "id_user": 8,
+      "carts_quantity": 0,
+      "sum_price": "876",
+      "payment_methods": "Thu hộ",
+      "id_voucher": "1",
+      "id": 10
+    }
+  ],
+  "voucher": [
+    {
+      "id": 1,
+      "ma_voucher": "BKTHY111",
+      "des": "Còn 200.000₫ để được nhận mã freeship",
+      "start_date": "10/10/2023",
+      "end_date": "17/10/2023"
+    },
+    {
+      "id": 2,
+      "ma_voucher": "BKTHsh1",
+      "des": "Còn 600.000₫ để được nhận mã giảm 20.000đ",
+      "start_date": "1/10/2023",
+      "end_date": "10/10/2023"
+    },
+    {
+      "id": 3,
+      "ma_voucher": "BKssfTHsh1",
+      "des": "Còn 900.000₫ để được nhận mã giảm 50.000đ",
+      "start_date": "11/10/2023",
+      "end_date": "12/10/2023"
+    }
+  ]
+}

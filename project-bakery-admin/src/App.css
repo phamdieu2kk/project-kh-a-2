@@ -1,0 +1,240 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Mooli', sans-serif;
+}
+
+body {
+  min-height: 100vh;
+  background: #d8dcdd;
+}
+
+.container {
+  max-width: 400px;
+  background-color: white;
+  margin: 0 auto;
+  margin-top: 50px;
+  padding: 10px 30px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  border-radius: 10px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.input-username {
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+
+.input-pass {
+  margin-bottom: 20px;
+}
+
+.btn-login {
+  margin-left: 100px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.error {
+  /*color: red;
+  margin: 10px;*/
+  border: 1px solid red;
+}
+
+.d-none {
+  display: none;
+}
+
+/* Định dạng cho menu dọc */
+.menu {
+  width: 200px;
+  background-color: #333;
+  height: 100%;
+  position: fixed;
+}
+
+/* Định dạng cho các mục trong menu */
+.menu-item {
+  padding: 10px;
+  text-align: center;
+}
+
+/* Định dạng cho các mục khi rê chuột vào */
+.menu-item:hover {
+  background-color: #555;
+}
+
+/* Định dạng cho văn bản trong menu */
+.menu-item a {
+  text-decoration: none;
+  color: white;
+  display: block;
+}
+
+/* Định dạng cho văn bản khi rê chuột vào */
+.menu-item a:hover {
+  color: #00ff00;
+}
+
+.container-full {
+  display: flex;
+  gap: 30px;
+  margin-left: 35px;
+}
+
+.container-left {
+  max-width: 400px;
+  background-color: white;
+  margin-top: 30px;
+  padding: 10px 30px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  border-radius: 10px;
+}
+
+.container-right {
+  max-width: 400px;
+  background-color: white;
+  margin-top: 30px;
+  padding: 10px 30px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  border-radius: 10px;
+}
+
+.container-views {
+  max-width: 400px;
+  background-color: white;
+  margin-top: 30px;
+  padding: 10px 30px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  border-radius: 10px;
+}
+
+.container-product {
+  max-width: 1000px;
+  background-color: white;
+  margin: 0 auto;
+  margin-top: 50px;
+  padding: 10px 30px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  border-radius: 10px;
+  margin-right: 40px;
+  margin-left: -55px;
+}
+
+.user-traffic {
+  font-size: 40px;
+}
+
+td img {
+  width: 30px;
+  height: 30px;
+  margin-left: 15px;
+}
+
+.td-action .item-delete {
+  padding-right: 11px;
+}
+
+.product-none {
+  color: #cd9b32;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.title-home {
+  margin: 15px;
+}
+
+.title-home span {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.label-totalprice {
+  color: #cd9b32;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.product-sum-price {
+  float: right;
+  padding-right: 15px;
+  margin-bottom: 0px;
+}
+
+.product-sum-price label {
+  padding-right: 65px;
+  margin-bottom: 25px;
+}
+
+.payment-infor {
+  display: inline-block;
+  float: right;
+}
+
+.btn-payment .product-lable {
+  background-color: #cd9b32;
+  color: #fff;
+  text-align: center;
+  line-height: 40px;
+  border: 1px solid #cd9b32;
+  border-radius: 5px;
+  padding: 10px;
+  padding-left: 70px;
+  padding-right: 70px;
+}
+
+.item-color {
+  color: #cd9b32;
+  font-weight: 700;
+}
+
+.item-center {
+  text-align: center;
+}
+
+.pagination-product {
+  text-align: center;
+}
+
+.item-edit {
+  color: rgb(74, 74, 189);
+}
+
+.item-delete {
+  color: red;
+}
+
+.add-product {
+  float: right;
+  margin-right: 100px;
+  margin-top: 0px;
+}
+
+.form-product{
+  width: 500px;
+    margin: 3px;
+    height: auto;
+    border: 1px solid;
+    border-radius: 11px;
+    padding: 16px;
+    background-color: #e8e5e5;
+    margin-bottom: 10px;
+}
+
+.item-add{
+  margin-top: 20px;
+}
+.btn-action{
+  text-align: center;
+}
+.btn-cannel{
+  margin-right: 10px;
+}
+.btn-add{
+
+}

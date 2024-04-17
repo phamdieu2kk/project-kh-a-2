@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+  }
+  .input-username{
+    margin-top: 40px;
+      margin-bottom: 20px;
+  }
+  .input-pass{
+    margin-bottom: 20px;
+  }
+  .btn-login{
+    margin-left: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+  .error{
+    /*color: red;
+    margin: 10px;*/
+    border: 1px solid red;
+  }
+  .d-none{
+    display: none;
+  }
